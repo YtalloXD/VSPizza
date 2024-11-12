@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: brown;
+    color: aliceblue;
+}
+  
+header {
+  background: url('arquivos/capadepizza.jpg') no-repeat center center/cover, rgb(245, 62, 113);
+  height: 300px;
+}
+  
+header h1 {
+  font-size: 4rem;
+}
+  
+.card {
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+  
+.card-title {
+  color: beige;
+}
+  
+footer {
+  background-color: #343a40;
+}
+  
+.overlay {
+    background-color: black;
+    opacity: 60%;
+}
+
+.introdu {
+  background-color: rgb(94, 5, 5);
+  height: 75px;
+  width: 280px;
+}
+
+.subtitulo {
+  background-color: crimson;
+  height: 24px;
+  width: 160px;
+  align-items: center;
+  transform: translateY(12px);
+}
+
+.pizzacalabresa {
+  height: 210px;
+}
+
+.pizzacarnesol {
+  height: 210px;
+}
+
+.cocacola {
+  height: 210px;
+}
